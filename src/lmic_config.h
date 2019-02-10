@@ -9,8 +9,8 @@
 // CFG_as923	Asia 923 MHz
 // CFG_in866	India 865-867 MHz
 
-#define CFG_eu868 1
-//#define CFG_us915 1
+//#define CFG_eu868 1
+#define CFG_us915 1
 //#define CFG_in866 1
 //#define CFG_au921 1
 //#define CFG_as923 1
